@@ -19,7 +19,7 @@
   padding: 20px 0;
 }
 
-.header_rec  {
+.header_rec {
   position: absolute;
   justify-self: right;
   color: var(--accent-color);
